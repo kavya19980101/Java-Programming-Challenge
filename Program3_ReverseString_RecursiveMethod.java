@@ -1,4 +1,4 @@
-public class ReverseString_RecursiveMethod {
+public class Program3_ReverseString_RecursiveMethod {
     public static void main(String[] args) {
         String str = Reverse("Kavya");
         System.out.println("The Reverse String is " + str);

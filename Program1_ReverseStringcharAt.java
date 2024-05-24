@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReverseStringcharAt {
+public class Program1_ReverseStringcharAt {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 System.out.println("Enter a String");
