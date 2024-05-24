@@ -3,7 +3,7 @@
 ## Programming List 
 | Program Number | Programming name	|
 | -------------- | ----------------- |
-| Program 1 |	Reverse a String using for loop with charAt function.	|
-| Project 2 |	Reverse a String using for loop with toCharArray function |
-| Project 3	| Reverse a String using with StringBuilder  |
-| Project 3	| Reverse a String without loop and inBuild functions |
+| Program 1 |	Java Programming on Reverse a String using with FOR loop and charAt function.	|
+| Program 2 |	Java Programming on Reverse a String using for loop and toCharArray function |
+| Program 3	| Java Programming on Reverse a String using with StringBuilder  |
+| Program 4	| Java Programming on Reverse a String without loop and inBuild functions |
