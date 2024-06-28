@@ -1,4 +1,4 @@
-public class Program6_Maxof3no_UsingifelseCondition {
+public class Program06_Maxof3no_UsingifelseCondition {
     public static void main(String[] args) {
         int a=10;
         int b=20;

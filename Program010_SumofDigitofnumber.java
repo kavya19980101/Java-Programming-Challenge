@@ -1,4 +1,4 @@
-public class Program10_SumofDigitofnumber {
+public class Program010_SumofDigitofnumber {
     public static void main(String[] args) {
         int num = 1245;
         int sum = 0;

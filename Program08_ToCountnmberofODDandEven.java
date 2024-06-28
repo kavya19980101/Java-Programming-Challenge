@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Program8_ToCountnmberofODDandEven {
+public class Program08_ToCountnmberofODDandEven {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a number");

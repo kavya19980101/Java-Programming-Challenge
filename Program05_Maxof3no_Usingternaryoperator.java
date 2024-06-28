@@ -1,6 +1,6 @@
 
 //Program of Maximum of 3 numbers using Ternary Operator
-public class Program5_Maxof3no_Usingternaryoperator {
+public class Program05_Maxof3no_Usingternaryoperator {
     public static void main(String[] args) {
         int a=10;
         int b=20;
