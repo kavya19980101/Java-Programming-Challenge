@@ -12,5 +12,5 @@
 | Program 7	| Java Programming to find given input number is even or odd |
 | Program 8	| Java Programming to count odd and even number in gven number |
 | Program 9	| Java Programming to count the number in given number |
-| Program 9	| Java Programming of sum of digit of a number |
+| Program 10	| Java Programming of sum of digit of a number |
 
