@@ -12,5 +12,9 @@
 | Program 7	| Java Programming to find given input number is even or odd | 
 | Program 8	| Java Programming to count odd and even number in gven number | 
 | Program 9	| Java Programming to count the number in given number | 
-| Program 10	| Java Programming of sum of digit of a number | 
+| Program 10	| Java Programming of sum of digit of number | 
+| Program 11	| Java Programming of Reverse a given number | 
+| Program 12	| Java Programming to check given number is palindrome or not
+| Program 13	| Java Programming to print fibonacci series | 
+| Program 14	| Java Programming of swap 2 number without third variable | 
 
