@@ -10,4 +10,6 @@
 | Program 5	| Java Programming on to find maximum of 3 given number using ternary operator |
 | Program 6	| Java Programming on to find maximum of 3 given number using if else  and logical AND Operator |
 | Program 7	| Java Programming to find given input number is even or odd |
+| Program 8	| Java Programming to count odd and even number in gven number |
+| Program 9	| Java Programming to count the number in given number |
 
