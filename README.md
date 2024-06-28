@@ -8,3 +8,4 @@
 | Program 3	| Java Programming on Reverse a String using with StringBuilder  |
 | Program 4	| Java Programming on Reverse a String without loop and inBuild functions |
 | Program 5	| Java Programming on to find maximum of 3 given number using ternary operator |
+| Program 6	| Java Programming on to find maximum of 3 given number using if else  and logical AND Operator |
